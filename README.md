@@ -5,8 +5,7 @@ cmpack menu fast load
 Conveniently load the cmpack (client) menu.
 
 # How to use?
-Control map in progress
-
+pojav's no json Control map files. sorry!
 # Supported apps and devices and Minecraft version
 app:pojavLauncher
 
