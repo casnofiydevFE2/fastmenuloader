@@ -12,4 +12,4 @@ app:pojavLauncher
 
 OS:Android/iOS (I've never used an iPhone)
 
-Minecraft version:1.8.8(suggestion)
+Minecraft version: 2 version (very safe)
