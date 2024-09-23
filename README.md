@@ -5,10 +5,13 @@ cmpack menu fast load
 Conveniently load the cmpack (client) menu.
 
 # How to use?
-pojav's no json Control map files. sorry!
+
+# install
+no here pojav's json Control map files. sorry!
+
 # Supported apps and devices and Minecraft version
 app:pojavLauncher
 
 OS:Android/iOS (I've never used an iPhone)
 
-Minecraft version: 2 version (very safe)
+Minecraft version: 1.8.8 & 1.8.9 (very safe)
